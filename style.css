@@ -1,0 +1,61 @@
+body {
+
+    font-family: "Noto Sans Thai", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+h1 {
+
+    color: #FFC107;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
+
+h2 {
+    color: #9370DB;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
+
+h5 {
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
+
+.title01 {
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
+
+.title02 {
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
+
+.title03 {
+    color: #FFC107;
+    text-align: left;
+    font-weight: bold;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
+
+.p01 {
+    color: darkgray;
+    text-align: left;
+}
+
+.card-link {
+    text-decoration: none;
+    color: white;
+}
